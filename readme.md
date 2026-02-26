@@ -2,8 +2,8 @@
 
 AI-powered legal contract clause analysis using fine-tuned Llama 3.2 3B with QLoRA.
 
-[![HuggingFace Space](https://huggingface.co/spaces/bharathgrinds/legal-contract-analyzer-summarizer-Qlora)]
-[![Model](https://huggingface.co/bharathgrinds/contract-analyzer-and-summarizer-Qlora-checkpoint825)]
+[![HuggingFace Space](https://img.shields.io/badge/🤗-Demo%20Space-yellow)](https://huggingface.co/spaces/bharathgrinds/legal-contract-analyzer-summarizer-Qlora)
+[![Model](https://img.shields.io/badge/🤗-Model-blue)](https://huggingface.co/bharathgrinds/contract-analyzer-and-summarizer-Qlora-checkpoint825)
 
 ## Overview
 
@@ -167,3 +167,4 @@ MIT License - see LICENSE file for details
 
 
 *Built as a portfolio project demonstrating LLM fine-tuning, prompt engineering, and practical ML deployment.*
+
